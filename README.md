@@ -1,5 +1,5 @@
 # Basic Heating House System
-This code was a basic program to create and control a basic domotic house which includes only the heating system part, implemented on an Arduino Uno Board. 
+This code was my first official full program coded in C++ implemented in an Arduino Uno Board. It was an exercise for a subject in colleagues, and it basically is a basic program to create and control a basic domotic house which includes only the heating system part.
 
 The main idea is we a house that contains:
   - Two solar collector
