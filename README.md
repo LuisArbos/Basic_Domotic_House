@@ -1,5 +1,5 @@
-# Basic Domotic House
-This code was a basic program to create and control a basic domotic house, based on an Arduino Uno Board. 
+# Basic Heating House System
+This code was a basic program to create and control a basic domotic house which includes only the heating system part, implemented on an Arduino Uno Board. 
 
 The main idea is we a house that contains:
   - Two solar collector
